@@ -71,6 +71,13 @@
 </div><hr>
 
 ###
+<h3 align="center">📧  Contact Me My Mail Adress</h3>
 
+###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /> <h3>emircvdar@gmail.com</h3>
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  /> <h3>emirediz123123@hotmail.com</h3>
+</div> <hr>
 
+###
