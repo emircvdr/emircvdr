@@ -67,7 +67,7 @@
 </div><hr>
 
 ###
-<h3 align="center">📧  Contact Me My Mail Adress</h3>
+<h3 align="center">📧  Contact Me </h3>
 
 ###
 
