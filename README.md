@@ -1,20 +1,20 @@
 <div align="center">
-  <img height="200" src="https://github.com/emircvdr/emircvdr/blob/main/düz%20siyah.png"  />
+  <img height="300"  width="100%" src="https://github.com/emircvdr/emircvdr/blob/main/düz%20siyah.png"  />
 </div>
 
 ###
 
-<h2 align="center">🧑‍💻I am developing myself as a frontend developer and continuing to learn. I am studying at Kocaeli University, majoring in Mathematics.</h2>
+<h2 align="center">🧑‍💻I am developing myself as a frontend developer and continuing to learn. I am studying at Kocaeli University, majoring in Mathematics.</h2><hr>
 
 ###
 
 <div align="center">
-  <img height="100" width="100%" src="https://github.com/emircvdr/emircvdr/blob/main/coding.gif"  />
-</div>
+  <img height="500" width="100%" src="https://github.com/emircvdr/emircvdr/blob/main/coding.gif"  />
+</div> <hr>
 
 ###
 
-<h3 align="center">🖋️ My Skills</h3>
+<h3 align="center">🖋️ My Skills</h3> 
 
 ###
 
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</div><hr>
 
 ###
 
@@ -68,7 +68,7 @@
   <a href="https://codepen.io/emircvdr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
-</div>
+</div><hr>
 
 ###
 
