@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/emircvdr/emircvdr/blob/main/coding.gif"  />
+  <img height="100" width="100%" src="https://github.com/emircvdr/emircvdr/blob/main/coding.gif"  />
 </div>
 
 ###
