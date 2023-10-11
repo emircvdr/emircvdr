@@ -74,8 +74,3 @@
 
 
 
-###
-
-<img src="https://raw.githubusercontent.com/emircvdr/emircvdr/output/snake.svg" alt="Snake animation" />
-
-###
