@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻I am developing myself as a frontend developer and continuing to learn. I am studying at Kocaeli University, majoring in Mathematics.</h2>
+<h2 align="center">🧑‍💻I am developing myself as a frontend developer and continuing to learn. I am studying at Kocaeli University, majoring in Mathematics.</h2>
 
 ###
 
