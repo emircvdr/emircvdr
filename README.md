@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="300"  width="100%" src="https://github.com/emircvdr/emircvdr/blob/main/düz%20siyah.png"  />
-</div>
 
 ###
 
